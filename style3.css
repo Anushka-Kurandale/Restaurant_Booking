@@ -1,0 +1,18 @@
+body{
+    background-image: url(back2.jpg); 
+ }
+
+ header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+.contact-info{
+    text-align: center;
+    padding: 20px 0;
+}
+.foot{
+    text-align: center;
+    background-color: rgb(175, 196, 127);
+}
